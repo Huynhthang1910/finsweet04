@@ -170,6 +170,9 @@ a.more {
 .latest-section-blog .blog-item{
     height: 100%;
 }
+.latest-section-blog .blog-item a.more img{
+    margin-left:0.5rem;
+}
 .latest-section-blog .blog-item .card {
     border-radius: 20px;
     height: 100%;
